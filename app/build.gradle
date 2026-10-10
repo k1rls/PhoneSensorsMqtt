@@ -1,0 +1,19 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'ua.codex.phonesensors'
+    compileSdk 36
+    defaultConfig {
+        applicationId 'ua.codex.phonesensors'
+        minSdk 14
+        targetSdk 28
+        versionCode 11
+        versionName '2.0'
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+
