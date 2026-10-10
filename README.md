@@ -39,4 +39,4 @@ A foreground notification keeps reporting active in the background. On Samsung f
 
 Open this folder in Android Studio with Android SDK Platform 36 installed and build the `app` debug APK. The project uses Android Gradle Plugin 8.13.2, minSdk 14, and targetSdk 28.
 
-The supplied APK was assembled and signature-verified in the build environment. It has not been run on a physical J120H yet.
+The supplied APK was assembled and signature-verified in the build environment. The v2.0 release notes report that it was tested on a Samsung Galaxy J1 SM-J120H.
